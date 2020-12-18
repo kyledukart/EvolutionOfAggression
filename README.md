@@ -7,7 +7,7 @@ This project was created using repl.it
 https://repl.it/@Shucadoodle/Project2#main.py
 
 
-Simulation Overview: Simulate a population of N agents in competition over limited resources. Each agent has a game theory strategy.
+<b>Simulation Overview</b>: Simulate a population of N agents in competition over limited resources. Each agent has a game theory strategy.
 
 Iterate over X number of generations:
 Each agent goes to a random resource (max of 2 per resource)
