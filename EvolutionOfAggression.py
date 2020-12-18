@@ -1,11 +1,3 @@
-"""
-TODO LIST
-test everything
-build test cases
-comment all the things
-add argparse
-"""
-
 # imports
 import argparse
 import random
