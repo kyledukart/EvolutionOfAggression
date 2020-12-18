@@ -19,12 +19,15 @@ Agents die or reproduce depending on how many resources they have received.
 The program then graphs the populations of the agents, showing which strategy is dominant, or what ratio gives us equilibrium.
 
 <b>How to use this Program:</b>
+
 Command line format:
+
 python SimulationOfAggression.py [number of agent1] [number of agent2] [food amount] [agent1 strategy] [agent2 strategy] [number of generations]
 
 or
 
 python SimulationOfAggression.py
+
 and the program will prompt you for simulation parameter inputs
 
 
